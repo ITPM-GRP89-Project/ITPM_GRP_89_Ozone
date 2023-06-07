@@ -1,2 +1,2 @@
-# appointments
-This one is made by using MERN Stack technology. appointmnt Maqnagement Full CRUD is include here.
+# threatenAnimals
+This one is made by using MERN Stack technology. threatenAnimal Maqnagement Full CRUD is include here.
